@@ -1,4 +1,4 @@
-# Hi there, I'm Ian Harding👋
+# Hi there, I'm Ian 👋
 
 <div align="center">
   
@@ -13,7 +13,7 @@ I'm a passionate developer focused on building innovative solutions and learning
 - 🔭 I'm currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Advanced Flask & React**
 - 💬 Ask me about **Python, JavaScript, Flask, Git**
-- 📫 How to reach me: **ianharding@gmail.com**
+- 📫 How to reach me: **ianharding8520@gmail.com**
 - ⚡ Fun fact: I love turning coffee into code ☕
 
 ## 🛠️ Tech Stack
@@ -44,11 +44,11 @@ I'm a passionate developer focused on building innovative solutions and learning
 
 <div align="center">
   
-  ![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-git8520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ian-git8520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-git8520&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-git8520&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ian-git8520&theme=tokyonight&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=Ian-git8520&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -76,7 +76,7 @@ Incident tracking and management system.
 
 ## 📈 Contribution Graph
 
-[![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ian-git8520&theme=tokyo-night&hide_border=true)](https://github.com/Ian-git8520)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-git8520&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 ## 🤝 Connect With Me
 
@@ -93,10 +93,10 @@ Incident tracking and management system.
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ian-git8520&color=blueviolet&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=Ian-git8520&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   
   ### 💭 Quote of the Day
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
   
   **⭐ From [Ian-git8520](https://github.com/Ian-git8520)**
   
